@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+.container1{
+    height: 85vh;
+    width: 100%;
+    background-image: url(whole.jpg);
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+.container2{
+    height: 70vh;
+    width: 100%;
+    background-image: url(dayflip.jpg);
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+.container3{
+    height: 70vh;
+    width: 100%;
+    background-image: url(night.jpg);
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+.container4{
+    height: 75vh;
+    width: 100%;
+    background-image: url(low.jpg);
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+.box1{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 15mm;
+    padding-top: 16%;
+    opacity: 0.95;
+}
+
+.box2{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 15mm;
+    border: 3px solid black;
+    padding: 10px;
+    background: black;
+    opacity: 0.6;
+    margin-top: 13%;
+    color: white;
+    margin-right: 33%;
+    margin-left: 33%;
+}
+
+.box3{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 15mm;
+    border: 10px solid white;
+    padding: 2px;
+    background: white;
+    opacity: 0.5;
+    margin-top: 13%;
+    color: black;
+    margin-right: 42%;
+    margin-left: 42%;
+}
+
+.box4{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 15mm;
+    border: 5px solid white;
+    padding: 3px;
+    background: white;
+    opacity: 0.5;
+    margin-top: 14%;
+    color: black;
+    margin-right: 40%;
+    margin-left: 40%;
+}
+
+.content1{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(230, 236, 236);
+    background-color: rgb(56, 62, 68);
+    text-align: center;
+}
+.content2{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.content3{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
