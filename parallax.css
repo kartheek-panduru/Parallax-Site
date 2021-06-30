@@ -2,9 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
 
 .container1{
+    text-shadow: 0 0 3px #000000, 0 0 5px #e7ebeb;
     height: 85vh;
     width: 100%;
-    background-image: url(whole.jpg);
+    background-image: url(bg1.gif);
     background-size: cover;
     display: table;
     background-attachment: fixed;
@@ -20,7 +21,7 @@
 }
 
 .container3{
-    height: 70vh;
+    height: 75vh;
     width: 100%;
     background-image: url(night.jpg);
     background-size: cover;
@@ -63,14 +64,14 @@
     font-family: 'Open Sans', sans-serif;
     text-align: center;
     font-size: 15mm;
-    border: 10px solid white;
-    padding: 2px;
-    background: white;
-    opacity: 0.5;
+    border: 3px solid rgb(255, 255, 255);
+    padding: 10px;
+    background: rgb(255, 255, 255);
+    opacity: 0.6;
     margin-top: 13%;
-    color: black;
-    margin-right: 42%;
-    margin-left: 42%;
+    color: rgb(0, 0, 0);
+    margin-right: 33%;
+    margin-left: 33%;
 }
 
 .box4{
@@ -89,15 +90,24 @@
 
 .content1{
     font-family: 'Poppins', sans-serif;
+    font-size: large;
     color: rgb(230, 236, 236);
     background-color: rgb(56, 62, 68);
     text-align: center;
+    padding-left: 6px;
+    padding-right: 6px;
 }
 .content2{
     font-family: 'Poppins', sans-serif;
+    font-size: large;
     text-align: center;
+    padding-left: 6px;
+    padding-right: 6px;
 }
 .content3{
     font-family: 'Poppins', sans-serif;
+    font-size: large;
     text-align: center;
+    padding-left: 6px;
+    padding-right: 6px;
 }
